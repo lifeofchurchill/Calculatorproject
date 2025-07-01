@@ -59,3 +59,16 @@ button.zero {
     text-align: left;
     grid-column: span 2;
 }
+
+button.delete {
+    background: #ff0000d3;
+}
+
+button.clear {
+    background: #ff0000d3;
+}
+
+button.operator.active-operator {
+    background-color: #fff;
+    color: #f39c12;
+}
